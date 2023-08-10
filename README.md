@@ -10,7 +10,7 @@ Follow these steps to set up your environment for the exercises:
 
 1. Install [Python 3.x](https://www.python.org/).
 2. Download and install [Anaconda](https://www.anaconda.com/download) Distribution on your machine.
-3. Create a conda environment named `xML`.
+3. Create and activate a conda environment, named `xML`.
 ```bash
 conda create -n xML python=3.9
 conda activate xML

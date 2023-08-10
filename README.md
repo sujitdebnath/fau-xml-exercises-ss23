@@ -39,6 +39,6 @@ pip install imodels tqdm PyALE lime
 ```bash
 pip install numpy==1.23
 ```
-8. Open any exercise notebook, e.g., `ce1.ipynb`, `ce2.ipynb`, etc, and and run the exercises.
+8. Open any exercise notebook, e.g., `ce1.ipynb`, `ce2.ipynb`, etc, and run the exercises.
 
 Feel free to explore the world of Explainable Machine Learning through these exercises!
